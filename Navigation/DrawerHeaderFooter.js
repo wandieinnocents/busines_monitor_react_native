@@ -7,7 +7,7 @@ import {
 } from '@react-navigation/drawer';
 import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 
-function CustomDrawerComponent (props) {
+function DrawerHeaderFooter (props) {
   return (
     <DrawerContentScrollView {...props} style={{backgroundColor: '#b3edf5'}}>
       {/* drawer header */}
@@ -65,4 +65,4 @@ const styles = StyleSheet.create ({
   },
 });
 
-export default CustomDrawerComponent;
+export default DrawerHeaderFooter;
