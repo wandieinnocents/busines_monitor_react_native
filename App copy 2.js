@@ -18,7 +18,7 @@ export default function App () {
     //   </PaperProvider>
     // </SafeAreaView>
 
-    (
+    
       <SafeAreaProvider>
         <PaperProvider>
           <NavigationContainer>
@@ -28,7 +28,9 @@ export default function App () {
           </NavigationContainer>
         </PaperProvider>
       </SafeAreaProvider>
-    )
+    
+
+    
   );
 }
 

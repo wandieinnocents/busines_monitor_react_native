@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "business_monitor_mobile",
-    "slug": "business_monitor_mobile",
+    "slug": "businessmonitormobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,8 +26,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "802d5550-102f-4027-8dac-27de576807ec"
+        "projectId": "20db9886-f847-4c8c-b8b9-01eebd9b977e"
       }
-    }
+    },
+    "owner": "wandie"
   }
 }
